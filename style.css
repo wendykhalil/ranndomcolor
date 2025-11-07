@@ -1,0 +1,12 @@
+body{
+    
+    min-height: 100vh;
+}
+
+
+
+.card{
+    width: 40px;
+    height: 40px;
+    background-color: #DBAC7E;
+}
