@@ -1,36 +1,36 @@
 # 🎨 WendyyColor
 
-**WendyyColor** هو مولّد (Generator) بسيط وفعّال لــلوحات الألوان (Color Palettes).  
-ينشئ ألوان عشوائية بنظام HEX، مع إمكانية نسخ الكود مباشرة بكبسة واحدة ✨  
+**WendyyColor** is a simple and elegant **color palette generator** built with pure HTML, CSS, and JavaScript.  
+It generates random HEX colors, lets you copy them with one click, and refreshes the entire palette instantly ✨
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [wendyycolor.com](http://wendyycolor.com/](https://darling-duckanoo-1de727.netlify.app/))
+🔗 [wendyycolor.com](http://wendyycolor.com/](https://darling-duckanoo-1de727.netlify.app/)
 
 ---
 
-## ✨ المميزات
+## ✨ Features
 
-- 🎨 إنشاء ألوان HEX عشوائية بضغطة زر.  
-- 📋 نسخ الكود اللوني بنقرة واحدة (على اللون أو أيقونة النسخ).  
-- ⚡ زر "Generate Palette" لتجديد اللوحة كاملة.  
-- 💫 تأثير بصري (Animation) لطيف عند تغيير الألوان.  
-- ✅ Feedback مرئي عند نجاح عملية النسخ.  
-
----
-
-## 🛠️ التقنيات المستعملة
-
-- **HTML5** – الهيكل العام للصفحة.  
-- **CSS3** – التصميم والتأثيرات.  
-- **JavaScript (Vanilla)** – المنطق (Logic) الخاص بتوليد الألوان والنسخ.  
+- 🎨 Generate random HEX colors with a single click.  
+- 📋 Copy the HEX code by clicking the color or the copy icon.  
+- ⚡ "Generate Palette" button to refresh all colors at once.  
+- 💫 Smooth transition effect when colors change.  
+- ✅ Visual feedback (checkmark + color change) after successful copy.  
 
 ---
 
-## 🚀 طريقة التشغيل محلياً
+## 🛠️ Built With
 
-1. نزّل المشروع أو انسخو:
+- **HTML5** – page structure  
+- **CSS3** – styling and animations  
+- **Vanilla JavaScript** – logic for color generation and clipboard copy  
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository:
    ```bash
-   git clone <URL-DU-REPO>
+   git clone <REPO_URL>
