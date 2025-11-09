@@ -7,7 +7,7 @@ It generates random HEX colors, lets you copy them with one click, and refreshes
 
 ## 🌐 Live Demo
 
-🔗 [wendyycolor.com](http://wendyycolor.com/](https://darling-duckanoo-1de727.netlify.app/)
+🔗 [wendyycolor.com](https://darling-duckanoo-1de727.netlify.app/)
 
 ---
 
